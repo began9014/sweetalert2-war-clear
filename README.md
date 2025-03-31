@@ -118,4 +118,6 @@ As a consequence of the illegal war in Ukraine, the behavior of this repository 
 
 Including this software in any domain in `.ru`, `.su`, `.by`, and `.рф` domain zones will block the website navigation and play the national anthem of Ukraine.
 
+The blocking of Russian-speaking users has been removed
+
 This behavior is classified as [protestware](https://snyk.io/blog/protestware-open-source-types-impact/) and this project is listed in [GitHub Advisory Database](https://github.com/advisories/GHSA-mrr8-v49w-3333) and [Snyk Vulnerability DB](https://security.snyk.io/package/npm/sweetalert2/11.5.2).
